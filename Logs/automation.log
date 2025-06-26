@@ -1,0 +1,981 @@
+2025-06-20 13:47:48,857 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 20 -->  test_OrangeHRM_title_001 is started
+2025-06-20 13:47:49,859 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 22 -->  opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-20 13:47:49,860 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 23 -->  Verifying title
+2025-06-20 13:47:49,968 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 25 -->  title is OrangeHRM
+2025-06-20 13:47:49,968 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 26 -->  test_OrangeHRM_title_001 is passed
+2025-06-20 13:47:49,968 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 27 -->  Taking screenshot
+2025-06-20 13:47:50,309 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 36 -->  test_OrangeHRM_title_001 is completed
+2025-06-20 13:51:14,536 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 20 -->  test_OrangeHRM_title_001 is started
+2025-06-20 13:51:15,572 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 22 -->  opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-20 13:51:15,572 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 23 -->  Verifying title
+2025-06-20 13:51:15,581 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 25 -->  title is OrangeHRM
+2025-06-20 13:51:15,582 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 26 -->  test_OrangeHRM_title_001 is passed
+2025-06-20 13:51:15,582 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 27 -->  Taking screenshot
+2025-06-20 13:51:15,820 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 36 -->  test_OrangeHRM_title_001 is completed
+2025-06-21 12:18:48,232 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 20 -->  test_OrangeHRM_title_001 is started
+2025-06-21 12:18:49,233 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 22 -->  opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:18:49,233 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 23 -->  Verifying title
+2025-06-21 12:18:49,270 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 25 -->  title is OrangeHRM
+2025-06-21 12:18:49,270 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 26 -->  test_OrangeHRM_title_001 is passed
+2025-06-21 12:18:49,271 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 27 -->  Taking screenshot
+2025-06-21 12:18:49,479 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 36 -->  test_OrangeHRM_title_001 is completed
+2025-06-21 12:21:12,241 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 20 -->  test_OrangeHRM_title_001 is started
+2025-06-21 12:21:13,242 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 22 -->  opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:21:13,242 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 23 -->  Verifying title
+2025-06-21 12:21:13,265 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 25 -->  title is OrangeHRM
+2025-06-21 12:21:13,265 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 26 -->  test_OrangeHRM_title_001 is passed
+2025-06-21 12:21:13,266 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 27 -->  Taking screenshot
+2025-06-21 12:21:13,602 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 36 -->  test_OrangeHRM_title_001 is completed
+2025-06-21 12:31:53,199 : INFO : Test_OrangeHRM_Add_Employee_004 : test_OrangeHRM_Add_Employee_005 : 24 -->  test_OrangeHRM_Add_Employee_004 is started
+2025-06-21 12:31:53,202 : INFO : Test_OrangeHRM_Add_Employee_004 : test_OrangeHRM_Add_Employee_005 : 27 -->  Opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:31:53,203 : INFO : Test_OrangeHRM_Add_Employee_004 : test_OrangeHRM_Add_Employee_005 : 28 -->  Entering username
+2025-06-21 12:31:54,047 : INFO : Test_OrangeHRM_Add_Employee_004 : test_OrangeHRM_Add_Employee_005 : 30 -->  Entering password
+2025-06-21 12:31:54,168 : INFO : Test_OrangeHRM_Add_Employee_004 : test_OrangeHRM_Add_Employee_005 : 32 -->  Clicking login button
+2025-06-21 12:31:54,241 : INFO : Test_OrangeHRM_Add_Employee_004 : test_OrangeHRM_Add_Employee_005 : 34 -->  Clicking PIM button
+2025-06-21 12:31:58,310 : INFO : Test_OrangeHRM_Add_Employee_004 : test_OrangeHRM_Add_Employee_005 : 36 -->  Clicking Add button
+2025-06-21 12:31:59,662 : INFO : Test_OrangeHRM_Add_Employee_004 : test_OrangeHRM_Add_Employee_005 : 38 -->  Entering first name
+2025-06-21 12:32:01,004 : INFO : Test_OrangeHRM_Add_Employee_004 : test_OrangeHRM_Add_Employee_005 : 40 -->  Entering middle name
+2025-06-21 12:32:01,174 : INFO : Test_OrangeHRM_Add_Employee_004 : test_OrangeHRM_Add_Employee_005 : 42 -->  Entering last name
+2025-06-21 12:32:01,271 : INFO : Test_OrangeHRM_Add_Employee_004 : test_OrangeHRM_Add_Employee_005 : 44 -->  Clicking image upload button
+2025-06-21 12:32:01,522 : INFO : Test_OrangeHRM_Add_Employee_004 : test_OrangeHRM_Add_Employee_005 : 47 -->  Clicking save button
+2025-06-21 12:32:01,612 : INFO : Test_OrangeHRM_Add_Employee_004 : test_OrangeHRM_Add_Employee_005 : 49 -->  Verifying success message
+2025-06-21 12:32:05,835 : INFO : Test_OrangeHRM_Add_Employee_004 : test_OrangeHRM_Add_Employee_005 : 52 -->  Employee added successfully
+2025-06-21 12:32:05,985 : INFO : Test_OrangeHRM_Add_Employee_004 : test_OrangeHRM_Add_Employee_005 : 60 -->  test_OrangeHRM_Add_Employee_005 is completed
+2025-06-21 12:32:14,462 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 20 -->  test_OrangeHRM_title_001 is started
+2025-06-21 12:32:14,462 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 20 -->  test_OrangeHRM_title_001 is started
+2025-06-21 12:32:14,462 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 20 -->  test_OrangeHRM_title_001 is started
+2025-06-21 12:32:14,462 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 20 -->  test_OrangeHRM_title_001 is started
+2025-06-21 12:32:15,463 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 22 -->  opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:32:15,463 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 22 -->  opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:32:15,463 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 22 -->  opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:32:15,463 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 22 -->  opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:32:15,464 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 23 -->  Verifying title
+2025-06-21 12:32:15,464 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 23 -->  Verifying title
+2025-06-21 12:32:15,464 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 23 -->  Verifying title
+2025-06-21 12:32:15,464 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 23 -->  Verifying title
+2025-06-21 12:32:15,502 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 25 -->  title is OrangeHRM
+2025-06-21 12:32:15,502 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 25 -->  title is OrangeHRM
+2025-06-21 12:32:15,502 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 25 -->  title is OrangeHRM
+2025-06-21 12:32:15,502 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 25 -->  title is OrangeHRM
+2025-06-21 12:32:15,502 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 26 -->  test_OrangeHRM_title_001 is passed
+2025-06-21 12:32:15,502 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 26 -->  test_OrangeHRM_title_001 is passed
+2025-06-21 12:32:15,502 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 26 -->  test_OrangeHRM_title_001 is passed
+2025-06-21 12:32:15,502 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 26 -->  test_OrangeHRM_title_001 is passed
+2025-06-21 12:32:15,503 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 27 -->  Taking screenshot
+2025-06-21 12:32:15,503 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 27 -->  Taking screenshot
+2025-06-21 12:32:15,503 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 27 -->  Taking screenshot
+2025-06-21 12:32:15,503 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 27 -->  Taking screenshot
+2025-06-21 12:32:15,666 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 36 -->  test_OrangeHRM_title_001 is completed
+2025-06-21 12:32:15,666 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 36 -->  test_OrangeHRM_title_001 is completed
+2025-06-21 12:32:15,666 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 36 -->  test_OrangeHRM_title_001 is completed
+2025-06-21 12:32:15,666 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 36 -->  test_OrangeHRM_title_001 is completed
+2025-06-21 12:32:15,668 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Logo_002 : 39 -->  test_OrangeHRM_Logo_002 is started
+2025-06-21 12:32:15,668 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Logo_002 : 39 -->  test_OrangeHRM_Logo_002 is started
+2025-06-21 12:32:15,668 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Logo_002 : 39 -->  test_OrangeHRM_Logo_002 is started
+2025-06-21 12:32:15,668 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Logo_002 : 39 -->  test_OrangeHRM_Logo_002 is started
+2025-06-21 12:32:16,669 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Logo_002 : 41 -->  Verifying logo
+2025-06-21 12:32:16,669 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Logo_002 : 41 -->  Verifying logo
+2025-06-21 12:32:16,669 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Logo_002 : 41 -->  Verifying logo
+2025-06-21 12:32:16,669 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Logo_002 : 41 -->  Verifying logo
+2025-06-21 12:32:16,710 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Logo_002 : 44 -->  logo is present
+2025-06-21 12:32:16,710 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Logo_002 : 44 -->  logo is present
+2025-06-21 12:32:16,710 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Logo_002 : 44 -->  logo is present
+2025-06-21 12:32:16,710 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Logo_002 : 44 -->  logo is present
+2025-06-21 12:32:16,710 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Logo_002 : 45 -->  test_OrangeHRM_Logo_002 is passed
+2025-06-21 12:32:16,710 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Logo_002 : 45 -->  test_OrangeHRM_Logo_002 is passed
+2025-06-21 12:32:16,710 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Logo_002 : 45 -->  test_OrangeHRM_Logo_002 is passed
+2025-06-21 12:32:16,710 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Logo_002 : 45 -->  test_OrangeHRM_Logo_002 is passed
+2025-06-21 12:32:16,711 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Logo_002 : 46 -->  Taking screenshot
+2025-06-21 12:32:16,711 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Logo_002 : 46 -->  Taking screenshot
+2025-06-21 12:32:16,711 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Logo_002 : 46 -->  Taking screenshot
+2025-06-21 12:32:16,711 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Logo_002 : 46 -->  Taking screenshot
+2025-06-21 12:32:16,898 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Logo_002 : 55 -->  test_OrangeHRM_Logo_002 is completed
+2025-06-21 12:32:16,898 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Logo_002 : 55 -->  test_OrangeHRM_Logo_002 is completed
+2025-06-21 12:32:16,898 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Logo_002 : 55 -->  test_OrangeHRM_Logo_002 is completed
+2025-06-21 12:32:16,898 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Logo_002 : 55 -->  test_OrangeHRM_Logo_002 is completed
+2025-06-21 12:32:16,902 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 58 -->  test_OrangeHRM_Login_003 is started
+2025-06-21 12:32:16,902 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 58 -->  test_OrangeHRM_Login_003 is started
+2025-06-21 12:32:16,902 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 58 -->  test_OrangeHRM_Login_003 is started
+2025-06-21 12:32:16,902 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 58 -->  test_OrangeHRM_Login_003 is started
+2025-06-21 12:32:16,902 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 60 -->  Entering username
+2025-06-21 12:32:16,902 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 60 -->  Entering username
+2025-06-21 12:32:16,902 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 60 -->  Entering username
+2025-06-21 12:32:16,902 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 60 -->  Entering username
+2025-06-21 12:32:17,078 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 62 -->  Entering password
+2025-06-21 12:32:17,078 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 62 -->  Entering password
+2025-06-21 12:32:17,078 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 62 -->  Entering password
+2025-06-21 12:32:17,078 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 62 -->  Entering password
+2025-06-21 12:32:17,232 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 64 -->  Clicking login button
+2025-06-21 12:32:17,232 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 64 -->  Clicking login button
+2025-06-21 12:32:17,232 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 64 -->  Clicking login button
+2025-06-21 12:32:17,232 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 64 -->  Clicking login button
+2025-06-21 12:32:17,349 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 66 -->  Verifying login
+2025-06-21 12:32:17,349 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 66 -->  Verifying login
+2025-06-21 12:32:17,349 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 66 -->  Verifying login
+2025-06-21 12:32:17,349 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 66 -->  Verifying login
+2025-06-21 12:32:19,315 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 68 -->  test_OrangeHRM_Login_003 is passed
+2025-06-21 12:32:19,315 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 68 -->  test_OrangeHRM_Login_003 is passed
+2025-06-21 12:32:19,315 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 68 -->  test_OrangeHRM_Login_003 is passed
+2025-06-21 12:32:19,315 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 68 -->  test_OrangeHRM_Login_003 is passed
+2025-06-21 12:32:19,315 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 69 -->  Taking screenshot
+2025-06-21 12:32:19,315 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 69 -->  Taking screenshot
+2025-06-21 12:32:19,315 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 69 -->  Taking screenshot
+2025-06-21 12:32:19,315 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 69 -->  Taking screenshot
+2025-06-21 12:32:19,594 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 71 -->  Clicking menu button
+2025-06-21 12:32:19,594 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 71 -->  Clicking menu button
+2025-06-21 12:32:19,594 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 71 -->  Clicking menu button
+2025-06-21 12:32:19,594 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 71 -->  Clicking menu button
+2025-06-21 12:32:19,675 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 73 -->  Clicking logout button
+2025-06-21 12:32:19,675 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 73 -->  Clicking logout button
+2025-06-21 12:32:19,675 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 73 -->  Clicking logout button
+2025-06-21 12:32:19,675 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 73 -->  Clicking logout button
+2025-06-21 12:32:22,544 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 81 -->  test_OrangeHRM_Login_003 is completed
+2025-06-21 12:32:22,544 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 81 -->  test_OrangeHRM_Login_003 is completed
+2025-06-21 12:32:22,544 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 81 -->  test_OrangeHRM_Login_003 is completed
+2025-06-21 12:32:22,544 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 81 -->  test_OrangeHRM_Login_003 is completed
+2025-06-21 12:32:29,861 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 20 -->  test_OrangeHRM_title_001 is started
+2025-06-21 12:32:29,861 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 20 -->  test_OrangeHRM_title_001 is started
+2025-06-21 12:32:29,861 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 20 -->  test_OrangeHRM_title_001 is started
+2025-06-21 12:32:29,861 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 20 -->  test_OrangeHRM_title_001 is started
+2025-06-21 12:32:30,861 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 22 -->  opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:32:30,861 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 22 -->  opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:32:30,861 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 22 -->  opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:32:30,861 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 22 -->  opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:32:30,862 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 23 -->  Verifying title
+2025-06-21 12:32:30,862 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 23 -->  Verifying title
+2025-06-21 12:32:30,862 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 23 -->  Verifying title
+2025-06-21 12:32:30,862 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 23 -->  Verifying title
+2025-06-21 12:32:30,874 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 25 -->  test_OrangeHRM_title_001 is passed
+2025-06-21 12:32:30,874 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 25 -->  test_OrangeHRM_title_001 is passed
+2025-06-21 12:32:30,874 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 25 -->  test_OrangeHRM_title_001 is passed
+2025-06-21 12:32:30,874 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 25 -->  test_OrangeHRM_title_001 is passed
+2025-06-21 12:32:30,874 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 26 -->  test_OrangeHRM_title_001 is passed
+2025-06-21 12:32:30,874 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 26 -->  test_OrangeHRM_title_001 is passed
+2025-06-21 12:32:30,874 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 26 -->  test_OrangeHRM_title_001 is passed
+2025-06-21 12:32:30,874 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 26 -->  test_OrangeHRM_title_001 is passed
+2025-06-21 12:32:30,875 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 27 -->  Taking screenshot
+2025-06-21 12:32:30,875 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 27 -->  Taking screenshot
+2025-06-21 12:32:30,875 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 27 -->  Taking screenshot
+2025-06-21 12:32:30,875 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 27 -->  Taking screenshot
+2025-06-21 12:32:31,042 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 36 -->  test_OrangeHRM_title_001 is completed
+2025-06-21 12:32:31,042 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 36 -->  test_OrangeHRM_title_001 is completed
+2025-06-21 12:32:31,042 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 36 -->  test_OrangeHRM_title_001 is completed
+2025-06-21 12:32:31,042 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 36 -->  test_OrangeHRM_title_001 is completed
+2025-06-21 12:32:40,102 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_Excel_005 : 26 -->  test_OrangeHRM_Login_005 is started
+2025-06-21 12:32:40,102 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_Excel_005 : 26 -->  test_OrangeHRM_Login_005 is started
+2025-06-21 12:32:40,102 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_Excel_005 : 26 -->  test_OrangeHRM_Login_005 is started
+2025-06-21 12:32:40,102 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_Excel_005 : 26 -->  test_OrangeHRM_Login_005 is started
+2025-06-21 12:32:40,102 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_Excel_005 : 27 -->  Opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:32:40,102 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_Excel_005 : 27 -->  Opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:32:40,102 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_Excel_005 : 27 -->  Opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:32:40,102 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_Excel_005 : 27 -->  Opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:32:40,102 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_Excel_005 : 29 -->  Reading data from excel file
+2025-06-21 12:32:40,102 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_Excel_005 : 29 -->  Reading data from excel file
+2025-06-21 12:32:40,102 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_Excel_005 : 29 -->  Reading data from excel file
+2025-06-21 12:32:40,102 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_Excel_005 : 29 -->  Reading data from excel file
+2025-06-21 12:32:49,005 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 19 -->  test_OrangeHRM_Login_004 is started
+2025-06-21 12:32:49,005 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 19 -->  test_OrangeHRM_Login_004 is started
+2025-06-21 12:32:49,005 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 19 -->  test_OrangeHRM_Login_004 is started
+2025-06-21 12:32:49,005 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 19 -->  test_OrangeHRM_Login_004 is started
+2025-06-21 12:32:49,006 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 23 -->  Opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:32:49,006 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 23 -->  Opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:32:49,006 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 23 -->  Opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:32:49,006 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 23 -->  Opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:32:49,006 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 25 -->  Entering username
+2025-06-21 12:32:49,006 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 25 -->  Entering username
+2025-06-21 12:32:49,006 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 25 -->  Entering username
+2025-06-21 12:32:49,006 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 25 -->  Entering username
+2025-06-21 12:32:49,747 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 27 -->  Entering password
+2025-06-21 12:32:49,747 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 27 -->  Entering password
+2025-06-21 12:32:49,747 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 27 -->  Entering password
+2025-06-21 12:32:49,747 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 27 -->  Entering password
+2025-06-21 12:32:49,860 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 29 -->  Clicking login button
+2025-06-21 12:32:49,860 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 29 -->  Clicking login button
+2025-06-21 12:32:49,860 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 29 -->  Clicking login button
+2025-06-21 12:32:49,860 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 29 -->  Clicking login button
+2025-06-21 12:32:49,945 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 31 -->  Verifying login
+2025-06-21 12:32:49,945 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 31 -->  Verifying login
+2025-06-21 12:32:49,945 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 31 -->  Verifying login
+2025-06-21 12:32:49,945 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 31 -->  Verifying login
+2025-06-21 12:32:52,245 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 33 -->  Login passed
+2025-06-21 12:32:52,245 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 33 -->  Login passed
+2025-06-21 12:32:52,245 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 33 -->  Login passed
+2025-06-21 12:32:52,245 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 33 -->  Login passed
+2025-06-21 12:32:52,245 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 34 -->  Taking screenshot
+2025-06-21 12:32:52,245 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 34 -->  Taking screenshot
+2025-06-21 12:32:52,245 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 34 -->  Taking screenshot
+2025-06-21 12:32:52,245 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 34 -->  Taking screenshot
+2025-06-21 12:32:52,571 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 36 -->  Clicking menu button
+2025-06-21 12:32:52,571 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 36 -->  Clicking menu button
+2025-06-21 12:32:52,571 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 36 -->  Clicking menu button
+2025-06-21 12:32:52,571 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 36 -->  Clicking menu button
+2025-06-21 12:32:52,653 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 38 -->  Clicking logout button
+2025-06-21 12:32:52,653 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 38 -->  Clicking logout button
+2025-06-21 12:32:52,653 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 38 -->  Clicking logout button
+2025-06-21 12:32:52,653 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 38 -->  Clicking logout button
+2025-06-21 12:32:56,252 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 48 -->  test_OrangeHRM_Login_004 is passed
+2025-06-21 12:32:56,252 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 48 -->  test_OrangeHRM_Login_004 is passed
+2025-06-21 12:32:56,252 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 48 -->  test_OrangeHRM_Login_004 is passed
+2025-06-21 12:32:56,252 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 48 -->  test_OrangeHRM_Login_004 is passed
+2025-06-21 12:32:56,252 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 53 -->  test_OrangeHRM_Login_004 is completed
+2025-06-21 12:32:56,252 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 53 -->  test_OrangeHRM_Login_004 is completed
+2025-06-21 12:32:56,252 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 53 -->  test_OrangeHRM_Login_004 is completed
+2025-06-21 12:32:56,252 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 53 -->  test_OrangeHRM_Login_004 is completed
+2025-06-21 12:32:56,255 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 19 -->  test_OrangeHRM_Login_004 is started
+2025-06-21 12:32:56,255 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 19 -->  test_OrangeHRM_Login_004 is started
+2025-06-21 12:32:56,255 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 19 -->  test_OrangeHRM_Login_004 is started
+2025-06-21 12:32:56,255 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 19 -->  test_OrangeHRM_Login_004 is started
+2025-06-21 12:32:56,255 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 23 -->  Opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:32:56,255 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 23 -->  Opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:32:56,255 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 23 -->  Opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:32:56,255 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 23 -->  Opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:32:56,256 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 25 -->  Entering username
+2025-06-21 12:32:56,256 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 25 -->  Entering username
+2025-06-21 12:32:56,256 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 25 -->  Entering username
+2025-06-21 12:32:56,256 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 25 -->  Entering username
+2025-06-21 12:32:56,966 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 27 -->  Entering password
+2025-06-21 12:32:56,966 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 27 -->  Entering password
+2025-06-21 12:32:56,966 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 27 -->  Entering password
+2025-06-21 12:32:56,966 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 27 -->  Entering password
+2025-06-21 12:32:57,158 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 29 -->  Clicking login button
+2025-06-21 12:32:57,158 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 29 -->  Clicking login button
+2025-06-21 12:32:57,158 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 29 -->  Clicking login button
+2025-06-21 12:32:57,158 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 29 -->  Clicking login button
+2025-06-21 12:32:58,238 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 31 -->  Verifying login
+2025-06-21 12:32:58,238 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 31 -->  Verifying login
+2025-06-21 12:32:58,238 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 31 -->  Verifying login
+2025-06-21 12:32:58,238 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 31 -->  Verifying login
+2025-06-21 12:33:08,718 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 42 -->  Login failed
+2025-06-21 12:33:08,718 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 42 -->  Login failed
+2025-06-21 12:33:08,718 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 42 -->  Login failed
+2025-06-21 12:33:08,718 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 42 -->  Login failed
+2025-06-21 12:33:08,719 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 43 -->  Taking screenshot
+2025-06-21 12:33:08,719 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 43 -->  Taking screenshot
+2025-06-21 12:33:08,719 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 43 -->  Taking screenshot
+2025-06-21 12:33:08,719 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 43 -->  Taking screenshot
+2025-06-21 12:33:08,931 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 48 -->  test_OrangeHRM_Login_004 is passed
+2025-06-21 12:33:08,931 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 48 -->  test_OrangeHRM_Login_004 is passed
+2025-06-21 12:33:08,931 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 48 -->  test_OrangeHRM_Login_004 is passed
+2025-06-21 12:33:08,931 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 48 -->  test_OrangeHRM_Login_004 is passed
+2025-06-21 12:33:08,931 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 53 -->  test_OrangeHRM_Login_004 is completed
+2025-06-21 12:33:08,931 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 53 -->  test_OrangeHRM_Login_004 is completed
+2025-06-21 12:33:08,931 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 53 -->  test_OrangeHRM_Login_004 is completed
+2025-06-21 12:33:08,931 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 53 -->  test_OrangeHRM_Login_004 is completed
+2025-06-21 12:33:08,933 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 19 -->  test_OrangeHRM_Login_004 is started
+2025-06-21 12:33:08,933 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 19 -->  test_OrangeHRM_Login_004 is started
+2025-06-21 12:33:08,933 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 19 -->  test_OrangeHRM_Login_004 is started
+2025-06-21 12:33:08,933 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 19 -->  test_OrangeHRM_Login_004 is started
+2025-06-21 12:33:08,933 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 23 -->  Opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:33:08,933 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 23 -->  Opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:33:08,933 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 23 -->  Opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:33:08,933 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 23 -->  Opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:33:08,934 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 25 -->  Entering username
+2025-06-21 12:33:08,934 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 25 -->  Entering username
+2025-06-21 12:33:08,934 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 25 -->  Entering username
+2025-06-21 12:33:08,934 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 25 -->  Entering username
+2025-06-21 12:33:09,107 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 27 -->  Entering password
+2025-06-21 12:33:09,107 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 27 -->  Entering password
+2025-06-21 12:33:09,107 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 27 -->  Entering password
+2025-06-21 12:33:09,107 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 27 -->  Entering password
+2025-06-21 12:33:09,245 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 29 -->  Clicking login button
+2025-06-21 12:33:09,245 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 29 -->  Clicking login button
+2025-06-21 12:33:09,245 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 29 -->  Clicking login button
+2025-06-21 12:33:09,245 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 29 -->  Clicking login button
+2025-06-21 12:33:09,355 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 31 -->  Verifying login
+2025-06-21 12:33:09,355 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 31 -->  Verifying login
+2025-06-21 12:33:09,355 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 31 -->  Verifying login
+2025-06-21 12:33:09,355 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 31 -->  Verifying login
+2025-06-21 12:33:19,572 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 42 -->  Login failed
+2025-06-21 12:33:19,572 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 42 -->  Login failed
+2025-06-21 12:33:19,572 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 42 -->  Login failed
+2025-06-21 12:33:19,572 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 42 -->  Login failed
+2025-06-21 12:33:19,573 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 43 -->  Taking screenshot
+2025-06-21 12:33:19,573 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 43 -->  Taking screenshot
+2025-06-21 12:33:19,573 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 43 -->  Taking screenshot
+2025-06-21 12:33:19,573 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 43 -->  Taking screenshot
+2025-06-21 12:33:19,745 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 48 -->  test_OrangeHRM_Login_004 is passed
+2025-06-21 12:33:19,745 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 48 -->  test_OrangeHRM_Login_004 is passed
+2025-06-21 12:33:19,745 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 48 -->  test_OrangeHRM_Login_004 is passed
+2025-06-21 12:33:19,745 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 48 -->  test_OrangeHRM_Login_004 is passed
+2025-06-21 12:33:19,746 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 53 -->  test_OrangeHRM_Login_004 is completed
+2025-06-21 12:33:19,746 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 53 -->  test_OrangeHRM_Login_004 is completed
+2025-06-21 12:33:19,746 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 53 -->  test_OrangeHRM_Login_004 is completed
+2025-06-21 12:33:19,746 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 53 -->  test_OrangeHRM_Login_004 is completed
+2025-06-21 12:33:19,749 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 19 -->  test_OrangeHRM_Login_004 is started
+2025-06-21 12:33:19,749 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 19 -->  test_OrangeHRM_Login_004 is started
+2025-06-21 12:33:19,749 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 19 -->  test_OrangeHRM_Login_004 is started
+2025-06-21 12:33:19,749 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 19 -->  test_OrangeHRM_Login_004 is started
+2025-06-21 12:33:19,749 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 23 -->  Opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:33:19,749 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 23 -->  Opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:33:19,749 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 23 -->  Opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:33:19,749 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 23 -->  Opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:33:19,750 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 25 -->  Entering username
+2025-06-21 12:33:19,750 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 25 -->  Entering username
+2025-06-21 12:33:19,750 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 25 -->  Entering username
+2025-06-21 12:33:19,750 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 25 -->  Entering username
+2025-06-21 12:33:19,927 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 27 -->  Entering password
+2025-06-21 12:33:19,927 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 27 -->  Entering password
+2025-06-21 12:33:19,927 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 27 -->  Entering password
+2025-06-21 12:33:19,927 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 27 -->  Entering password
+2025-06-21 12:33:20,081 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 29 -->  Clicking login button
+2025-06-21 12:33:20,081 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 29 -->  Clicking login button
+2025-06-21 12:33:20,081 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 29 -->  Clicking login button
+2025-06-21 12:33:20,081 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 29 -->  Clicking login button
+2025-06-21 12:33:20,200 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 31 -->  Verifying login
+2025-06-21 12:33:20,200 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 31 -->  Verifying login
+2025-06-21 12:33:20,200 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 31 -->  Verifying login
+2025-06-21 12:33:20,200 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 31 -->  Verifying login
+2025-06-21 12:33:30,384 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 42 -->  Login failed
+2025-06-21 12:33:30,384 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 42 -->  Login failed
+2025-06-21 12:33:30,384 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 42 -->  Login failed
+2025-06-21 12:33:30,384 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 42 -->  Login failed
+2025-06-21 12:33:30,385 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 43 -->  Taking screenshot
+2025-06-21 12:33:30,385 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 43 -->  Taking screenshot
+2025-06-21 12:33:30,385 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 43 -->  Taking screenshot
+2025-06-21 12:33:30,385 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 43 -->  Taking screenshot
+2025-06-21 12:33:30,563 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 48 -->  test_OrangeHRM_Login_004 is passed
+2025-06-21 12:33:30,563 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 48 -->  test_OrangeHRM_Login_004 is passed
+2025-06-21 12:33:30,563 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 48 -->  test_OrangeHRM_Login_004 is passed
+2025-06-21 12:33:30,563 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 48 -->  test_OrangeHRM_Login_004 is passed
+2025-06-21 12:33:30,564 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 53 -->  test_OrangeHRM_Login_004 is completed
+2025-06-21 12:33:30,564 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 53 -->  test_OrangeHRM_Login_004 is completed
+2025-06-21 12:33:30,564 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 53 -->  test_OrangeHRM_Login_004 is completed
+2025-06-21 12:33:30,564 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 53 -->  test_OrangeHRM_Login_004 is completed
+2025-06-21 12:36:26,109 : INFO : Test_OrangeHRM_Add_Employee_004 : test_OrangeHRM_Add_Employee_005 : 24 -->  test_OrangeHRM_Add_Employee_004 is started
+2025-06-21 12:36:26,111 : INFO : Test_OrangeHRM_Add_Employee_004 : test_OrangeHRM_Add_Employee_005 : 27 -->  Opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:36:26,111 : INFO : Test_OrangeHRM_Add_Employee_004 : test_OrangeHRM_Add_Employee_005 : 28 -->  Entering username
+2025-06-21 12:36:27,389 : INFO : Test_OrangeHRM_Add_Employee_004 : test_OrangeHRM_Add_Employee_005 : 30 -->  Entering password
+2025-06-21 12:36:27,497 : INFO : Test_OrangeHRM_Add_Employee_004 : test_OrangeHRM_Add_Employee_005 : 32 -->  Clicking login button
+2025-06-21 12:36:27,576 : INFO : Test_OrangeHRM_Add_Employee_004 : test_OrangeHRM_Add_Employee_005 : 34 -->  Clicking PIM button
+2025-06-21 12:36:31,280 : INFO : Test_OrangeHRM_Add_Employee_004 : test_OrangeHRM_Add_Employee_005 : 36 -->  Clicking Add button
+2025-06-21 12:36:32,741 : INFO : Test_OrangeHRM_Add_Employee_004 : test_OrangeHRM_Add_Employee_005 : 38 -->  Entering first name
+2025-06-21 12:36:33,465 : INFO : Test_OrangeHRM_Add_Employee_004 : test_OrangeHRM_Add_Employee_005 : 40 -->  Entering middle name
+2025-06-21 12:36:33,643 : INFO : Test_OrangeHRM_Add_Employee_004 : test_OrangeHRM_Add_Employee_005 : 42 -->  Entering last name
+2025-06-21 12:36:33,752 : INFO : Test_OrangeHRM_Add_Employee_004 : test_OrangeHRM_Add_Employee_005 : 44 -->  Clicking image upload button
+2025-06-21 12:36:34,035 : INFO : Test_OrangeHRM_Add_Employee_004 : test_OrangeHRM_Add_Employee_005 : 47 -->  Clicking save button
+2025-06-21 12:36:34,112 : INFO : Test_OrangeHRM_Add_Employee_004 : test_OrangeHRM_Add_Employee_005 : 49 -->  Verifying success message
+2025-06-21 12:36:38,571 : INFO : Test_OrangeHRM_Add_Employee_004 : test_OrangeHRM_Add_Employee_005 : 52 -->  Employee added successfully
+2025-06-21 12:36:38,750 : INFO : Test_OrangeHRM_Add_Employee_004 : test_OrangeHRM_Add_Employee_005 : 60 -->  test_OrangeHRM_Add_Employee_005 is completed
+2025-06-21 12:36:46,248 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 20 -->  test_OrangeHRM_title_001 is started
+2025-06-21 12:36:46,248 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 20 -->  test_OrangeHRM_title_001 is started
+2025-06-21 12:36:46,248 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 20 -->  test_OrangeHRM_title_001 is started
+2025-06-21 12:36:46,248 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 20 -->  test_OrangeHRM_title_001 is started
+2025-06-21 12:36:47,249 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 22 -->  opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:36:47,249 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 22 -->  opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:36:47,249 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 22 -->  opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:36:47,249 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 22 -->  opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:36:47,249 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 23 -->  Verifying title
+2025-06-21 12:36:47,249 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 23 -->  Verifying title
+2025-06-21 12:36:47,249 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 23 -->  Verifying title
+2025-06-21 12:36:47,249 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 23 -->  Verifying title
+2025-06-21 12:36:47,263 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 25 -->  title is OrangeHRM
+2025-06-21 12:36:47,263 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 25 -->  title is OrangeHRM
+2025-06-21 12:36:47,263 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 25 -->  title is OrangeHRM
+2025-06-21 12:36:47,263 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 25 -->  title is OrangeHRM
+2025-06-21 12:36:47,263 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 26 -->  test_OrangeHRM_title_001 is passed
+2025-06-21 12:36:47,263 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 26 -->  test_OrangeHRM_title_001 is passed
+2025-06-21 12:36:47,263 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 26 -->  test_OrangeHRM_title_001 is passed
+2025-06-21 12:36:47,263 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 26 -->  test_OrangeHRM_title_001 is passed
+2025-06-21 12:36:47,263 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 27 -->  Taking screenshot
+2025-06-21 12:36:47,263 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 27 -->  Taking screenshot
+2025-06-21 12:36:47,263 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 27 -->  Taking screenshot
+2025-06-21 12:36:47,263 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 27 -->  Taking screenshot
+2025-06-21 12:36:47,428 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 36 -->  test_OrangeHRM_title_001 is completed
+2025-06-21 12:36:47,428 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 36 -->  test_OrangeHRM_title_001 is completed
+2025-06-21 12:36:47,428 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 36 -->  test_OrangeHRM_title_001 is completed
+2025-06-21 12:36:47,428 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 36 -->  test_OrangeHRM_title_001 is completed
+2025-06-21 12:36:47,431 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Logo_002 : 39 -->  test_OrangeHRM_Logo_002 is started
+2025-06-21 12:36:47,431 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Logo_002 : 39 -->  test_OrangeHRM_Logo_002 is started
+2025-06-21 12:36:47,431 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Logo_002 : 39 -->  test_OrangeHRM_Logo_002 is started
+2025-06-21 12:36:47,431 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Logo_002 : 39 -->  test_OrangeHRM_Logo_002 is started
+2025-06-21 12:36:48,432 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Logo_002 : 41 -->  Verifying logo
+2025-06-21 12:36:48,432 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Logo_002 : 41 -->  Verifying logo
+2025-06-21 12:36:48,432 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Logo_002 : 41 -->  Verifying logo
+2025-06-21 12:36:48,432 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Logo_002 : 41 -->  Verifying logo
+2025-06-21 12:36:48,469 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Logo_002 : 44 -->  logo is present
+2025-06-21 12:36:48,469 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Logo_002 : 44 -->  logo is present
+2025-06-21 12:36:48,469 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Logo_002 : 44 -->  logo is present
+2025-06-21 12:36:48,469 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Logo_002 : 44 -->  logo is present
+2025-06-21 12:36:48,469 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Logo_002 : 45 -->  test_OrangeHRM_Logo_002 is passed
+2025-06-21 12:36:48,469 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Logo_002 : 45 -->  test_OrangeHRM_Logo_002 is passed
+2025-06-21 12:36:48,469 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Logo_002 : 45 -->  test_OrangeHRM_Logo_002 is passed
+2025-06-21 12:36:48,469 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Logo_002 : 45 -->  test_OrangeHRM_Logo_002 is passed
+2025-06-21 12:36:48,469 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Logo_002 : 46 -->  Taking screenshot
+2025-06-21 12:36:48,469 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Logo_002 : 46 -->  Taking screenshot
+2025-06-21 12:36:48,469 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Logo_002 : 46 -->  Taking screenshot
+2025-06-21 12:36:48,469 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Logo_002 : 46 -->  Taking screenshot
+2025-06-21 12:36:48,671 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Logo_002 : 55 -->  test_OrangeHRM_Logo_002 is completed
+2025-06-21 12:36:48,671 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Logo_002 : 55 -->  test_OrangeHRM_Logo_002 is completed
+2025-06-21 12:36:48,671 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Logo_002 : 55 -->  test_OrangeHRM_Logo_002 is completed
+2025-06-21 12:36:48,671 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Logo_002 : 55 -->  test_OrangeHRM_Logo_002 is completed
+2025-06-21 12:36:48,674 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 58 -->  test_OrangeHRM_Login_003 is started
+2025-06-21 12:36:48,674 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 58 -->  test_OrangeHRM_Login_003 is started
+2025-06-21 12:36:48,674 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 58 -->  test_OrangeHRM_Login_003 is started
+2025-06-21 12:36:48,674 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 58 -->  test_OrangeHRM_Login_003 is started
+2025-06-21 12:36:48,674 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 60 -->  Entering username
+2025-06-21 12:36:48,674 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 60 -->  Entering username
+2025-06-21 12:36:48,674 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 60 -->  Entering username
+2025-06-21 12:36:48,674 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 60 -->  Entering username
+2025-06-21 12:36:48,893 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 62 -->  Entering password
+2025-06-21 12:36:48,893 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 62 -->  Entering password
+2025-06-21 12:36:48,893 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 62 -->  Entering password
+2025-06-21 12:36:48,893 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 62 -->  Entering password
+2025-06-21 12:36:49,012 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 64 -->  Clicking login button
+2025-06-21 12:36:49,012 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 64 -->  Clicking login button
+2025-06-21 12:36:49,012 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 64 -->  Clicking login button
+2025-06-21 12:36:49,012 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 64 -->  Clicking login button
+2025-06-21 12:36:49,081 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 66 -->  Verifying login
+2025-06-21 12:36:49,081 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 66 -->  Verifying login
+2025-06-21 12:36:49,081 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 66 -->  Verifying login
+2025-06-21 12:36:49,081 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 66 -->  Verifying login
+2025-06-21 12:36:51,259 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 68 -->  test_OrangeHRM_Login_003 is passed
+2025-06-21 12:36:51,259 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 68 -->  test_OrangeHRM_Login_003 is passed
+2025-06-21 12:36:51,259 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 68 -->  test_OrangeHRM_Login_003 is passed
+2025-06-21 12:36:51,259 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 68 -->  test_OrangeHRM_Login_003 is passed
+2025-06-21 12:36:51,259 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 69 -->  Taking screenshot
+2025-06-21 12:36:51,259 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 69 -->  Taking screenshot
+2025-06-21 12:36:51,259 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 69 -->  Taking screenshot
+2025-06-21 12:36:51,259 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 69 -->  Taking screenshot
+2025-06-21 12:36:51,591 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 71 -->  Clicking menu button
+2025-06-21 12:36:51,591 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 71 -->  Clicking menu button
+2025-06-21 12:36:51,591 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 71 -->  Clicking menu button
+2025-06-21 12:36:51,591 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 71 -->  Clicking menu button
+2025-06-21 12:36:51,695 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 73 -->  Clicking logout button
+2025-06-21 12:36:51,695 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 73 -->  Clicking logout button
+2025-06-21 12:36:51,695 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 73 -->  Clicking logout button
+2025-06-21 12:36:51,695 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 73 -->  Clicking logout button
+2025-06-21 12:36:53,598 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 81 -->  test_OrangeHRM_Login_003 is completed
+2025-06-21 12:36:53,598 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 81 -->  test_OrangeHRM_Login_003 is completed
+2025-06-21 12:36:53,598 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 81 -->  test_OrangeHRM_Login_003 is completed
+2025-06-21 12:36:53,598 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 81 -->  test_OrangeHRM_Login_003 is completed
+2025-06-21 12:37:06,022 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 20 -->  test_OrangeHRM_title_001 is started
+2025-06-21 12:37:06,022 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 20 -->  test_OrangeHRM_title_001 is started
+2025-06-21 12:37:06,022 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 20 -->  test_OrangeHRM_title_001 is started
+2025-06-21 12:37:06,022 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 20 -->  test_OrangeHRM_title_001 is started
+2025-06-21 12:37:07,023 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 22 -->  opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:37:07,023 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 22 -->  opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:37:07,023 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 22 -->  opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:37:07,023 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 22 -->  opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:37:07,024 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 23 -->  Verifying title
+2025-06-21 12:37:07,024 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 23 -->  Verifying title
+2025-06-21 12:37:07,024 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 23 -->  Verifying title
+2025-06-21 12:37:07,024 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 23 -->  Verifying title
+2025-06-21 12:37:07,044 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 25 -->  test_OrangeHRM_title_001 is passed
+2025-06-21 12:37:07,044 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 25 -->  test_OrangeHRM_title_001 is passed
+2025-06-21 12:37:07,044 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 25 -->  test_OrangeHRM_title_001 is passed
+2025-06-21 12:37:07,044 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 25 -->  test_OrangeHRM_title_001 is passed
+2025-06-21 12:37:07,045 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 26 -->  test_OrangeHRM_title_001 is passed
+2025-06-21 12:37:07,045 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 26 -->  test_OrangeHRM_title_001 is passed
+2025-06-21 12:37:07,045 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 26 -->  test_OrangeHRM_title_001 is passed
+2025-06-21 12:37:07,045 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 26 -->  test_OrangeHRM_title_001 is passed
+2025-06-21 12:37:07,046 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 27 -->  Taking screenshot
+2025-06-21 12:37:07,046 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 27 -->  Taking screenshot
+2025-06-21 12:37:07,046 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 27 -->  Taking screenshot
+2025-06-21 12:37:07,046 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 27 -->  Taking screenshot
+2025-06-21 12:37:07,185 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 36 -->  test_OrangeHRM_title_001 is completed
+2025-06-21 12:37:07,185 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 36 -->  test_OrangeHRM_title_001 is completed
+2025-06-21 12:37:07,185 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 36 -->  test_OrangeHRM_title_001 is completed
+2025-06-21 12:37:07,185 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 36 -->  test_OrangeHRM_title_001 is completed
+2025-06-21 12:37:15,314 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_Excel_005 : 26 -->  test_OrangeHRM_Login_005 is started
+2025-06-21 12:37:15,314 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_Excel_005 : 26 -->  test_OrangeHRM_Login_005 is started
+2025-06-21 12:37:15,314 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_Excel_005 : 26 -->  test_OrangeHRM_Login_005 is started
+2025-06-21 12:37:15,314 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_Excel_005 : 26 -->  test_OrangeHRM_Login_005 is started
+2025-06-21 12:37:15,315 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_Excel_005 : 27 -->  Opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:37:15,315 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_Excel_005 : 27 -->  Opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:37:15,315 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_Excel_005 : 27 -->  Opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:37:15,315 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_Excel_005 : 27 -->  Opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:37:15,315 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_Excel_005 : 29 -->  Reading data from excel file
+2025-06-21 12:37:15,315 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_Excel_005 : 29 -->  Reading data from excel file
+2025-06-21 12:37:15,315 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_Excel_005 : 29 -->  Reading data from excel file
+2025-06-21 12:37:15,315 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_Excel_005 : 29 -->  Reading data from excel file
+2025-06-21 12:37:22,824 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 19 -->  test_OrangeHRM_Login_004 is started
+2025-06-21 12:37:22,824 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 19 -->  test_OrangeHRM_Login_004 is started
+2025-06-21 12:37:22,824 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 19 -->  test_OrangeHRM_Login_004 is started
+2025-06-21 12:37:22,824 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 19 -->  test_OrangeHRM_Login_004 is started
+2025-06-21 12:37:22,824 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 23 -->  Opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:37:22,824 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 23 -->  Opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:37:22,824 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 23 -->  Opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:37:22,824 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 23 -->  Opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:37:22,824 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 25 -->  Entering username
+2025-06-21 12:37:22,824 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 25 -->  Entering username
+2025-06-21 12:37:22,824 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 25 -->  Entering username
+2025-06-21 12:37:22,824 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 25 -->  Entering username
+2025-06-21 12:37:24,032 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 27 -->  Entering password
+2025-06-21 12:37:24,032 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 27 -->  Entering password
+2025-06-21 12:37:24,032 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 27 -->  Entering password
+2025-06-21 12:37:24,032 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 27 -->  Entering password
+2025-06-21 12:37:24,139 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 29 -->  Clicking login button
+2025-06-21 12:37:24,139 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 29 -->  Clicking login button
+2025-06-21 12:37:24,139 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 29 -->  Clicking login button
+2025-06-21 12:37:24,139 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 29 -->  Clicking login button
+2025-06-21 12:37:25,654 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 31 -->  Verifying login
+2025-06-21 12:37:25,654 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 31 -->  Verifying login
+2025-06-21 12:37:25,654 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 31 -->  Verifying login
+2025-06-21 12:37:25,654 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 31 -->  Verifying login
+2025-06-21 12:37:26,294 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 33 -->  Login passed
+2025-06-21 12:37:26,294 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 33 -->  Login passed
+2025-06-21 12:37:26,294 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 33 -->  Login passed
+2025-06-21 12:37:26,294 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 33 -->  Login passed
+2025-06-21 12:37:26,294 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 34 -->  Taking screenshot
+2025-06-21 12:37:26,294 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 34 -->  Taking screenshot
+2025-06-21 12:37:26,294 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 34 -->  Taking screenshot
+2025-06-21 12:37:26,294 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 34 -->  Taking screenshot
+2025-06-21 12:37:26,625 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 36 -->  Clicking menu button
+2025-06-21 12:37:26,625 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 36 -->  Clicking menu button
+2025-06-21 12:37:26,625 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 36 -->  Clicking menu button
+2025-06-21 12:37:26,625 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 36 -->  Clicking menu button
+2025-06-21 12:37:26,707 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 38 -->  Clicking logout button
+2025-06-21 12:37:26,707 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 38 -->  Clicking logout button
+2025-06-21 12:37:26,707 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 38 -->  Clicking logout button
+2025-06-21 12:37:26,707 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 38 -->  Clicking logout button
+2025-06-21 12:37:29,859 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 48 -->  test_OrangeHRM_Login_004 is passed
+2025-06-21 12:37:29,859 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 48 -->  test_OrangeHRM_Login_004 is passed
+2025-06-21 12:37:29,859 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 48 -->  test_OrangeHRM_Login_004 is passed
+2025-06-21 12:37:29,859 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 48 -->  test_OrangeHRM_Login_004 is passed
+2025-06-21 12:37:29,859 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 53 -->  test_OrangeHRM_Login_004 is completed
+2025-06-21 12:37:29,859 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 53 -->  test_OrangeHRM_Login_004 is completed
+2025-06-21 12:37:29,859 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 53 -->  test_OrangeHRM_Login_004 is completed
+2025-06-21 12:37:29,859 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 53 -->  test_OrangeHRM_Login_004 is completed
+2025-06-21 12:37:29,862 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 19 -->  test_OrangeHRM_Login_004 is started
+2025-06-21 12:37:29,862 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 19 -->  test_OrangeHRM_Login_004 is started
+2025-06-21 12:37:29,862 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 19 -->  test_OrangeHRM_Login_004 is started
+2025-06-21 12:37:29,862 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 19 -->  test_OrangeHRM_Login_004 is started
+2025-06-21 12:37:29,863 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 23 -->  Opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:37:29,863 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 23 -->  Opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:37:29,863 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 23 -->  Opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:37:29,863 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 23 -->  Opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:37:29,863 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 25 -->  Entering username
+2025-06-21 12:37:29,863 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 25 -->  Entering username
+2025-06-21 12:37:29,863 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 25 -->  Entering username
+2025-06-21 12:37:29,863 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 25 -->  Entering username
+2025-06-21 12:37:30,627 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 27 -->  Entering password
+2025-06-21 12:37:30,627 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 27 -->  Entering password
+2025-06-21 12:37:30,627 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 27 -->  Entering password
+2025-06-21 12:37:30,627 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 27 -->  Entering password
+2025-06-21 12:37:30,742 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 29 -->  Clicking login button
+2025-06-21 12:37:30,742 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 29 -->  Clicking login button
+2025-06-21 12:37:30,742 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 29 -->  Clicking login button
+2025-06-21 12:37:30,742 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 29 -->  Clicking login button
+2025-06-21 12:37:30,833 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 31 -->  Verifying login
+2025-06-21 12:37:30,833 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 31 -->  Verifying login
+2025-06-21 12:37:30,833 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 31 -->  Verifying login
+2025-06-21 12:37:30,833 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 31 -->  Verifying login
+2025-06-21 12:37:41,110 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 42 -->  Login failed
+2025-06-21 12:37:41,110 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 42 -->  Login failed
+2025-06-21 12:37:41,110 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 42 -->  Login failed
+2025-06-21 12:37:41,110 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 42 -->  Login failed
+2025-06-21 12:37:41,111 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 43 -->  Taking screenshot
+2025-06-21 12:37:41,111 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 43 -->  Taking screenshot
+2025-06-21 12:37:41,111 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 43 -->  Taking screenshot
+2025-06-21 12:37:41,111 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 43 -->  Taking screenshot
+2025-06-21 12:37:41,297 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 48 -->  test_OrangeHRM_Login_004 is passed
+2025-06-21 12:37:41,297 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 48 -->  test_OrangeHRM_Login_004 is passed
+2025-06-21 12:37:41,297 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 48 -->  test_OrangeHRM_Login_004 is passed
+2025-06-21 12:37:41,297 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 48 -->  test_OrangeHRM_Login_004 is passed
+2025-06-21 12:37:41,298 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 53 -->  test_OrangeHRM_Login_004 is completed
+2025-06-21 12:37:41,298 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 53 -->  test_OrangeHRM_Login_004 is completed
+2025-06-21 12:37:41,298 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 53 -->  test_OrangeHRM_Login_004 is completed
+2025-06-21 12:37:41,298 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 53 -->  test_OrangeHRM_Login_004 is completed
+2025-06-21 12:37:41,301 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 19 -->  test_OrangeHRM_Login_004 is started
+2025-06-21 12:37:41,301 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 19 -->  test_OrangeHRM_Login_004 is started
+2025-06-21 12:37:41,301 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 19 -->  test_OrangeHRM_Login_004 is started
+2025-06-21 12:37:41,301 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 19 -->  test_OrangeHRM_Login_004 is started
+2025-06-21 12:37:41,301 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 23 -->  Opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:37:41,301 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 23 -->  Opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:37:41,301 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 23 -->  Opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:37:41,301 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 23 -->  Opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:37:41,302 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 25 -->  Entering username
+2025-06-21 12:37:41,302 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 25 -->  Entering username
+2025-06-21 12:37:41,302 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 25 -->  Entering username
+2025-06-21 12:37:41,302 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 25 -->  Entering username
+2025-06-21 12:37:41,447 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 27 -->  Entering password
+2025-06-21 12:37:41,447 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 27 -->  Entering password
+2025-06-21 12:37:41,447 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 27 -->  Entering password
+2025-06-21 12:37:41,447 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 27 -->  Entering password
+2025-06-21 12:37:41,566 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 29 -->  Clicking login button
+2025-06-21 12:37:41,566 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 29 -->  Clicking login button
+2025-06-21 12:37:41,566 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 29 -->  Clicking login button
+2025-06-21 12:37:41,566 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 29 -->  Clicking login button
+2025-06-21 12:37:41,656 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 31 -->  Verifying login
+2025-06-21 12:37:41,656 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 31 -->  Verifying login
+2025-06-21 12:37:41,656 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 31 -->  Verifying login
+2025-06-21 12:37:41,656 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 31 -->  Verifying login
+2025-06-21 12:37:51,790 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 42 -->  Login failed
+2025-06-21 12:37:51,790 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 42 -->  Login failed
+2025-06-21 12:37:51,790 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 42 -->  Login failed
+2025-06-21 12:37:51,790 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 42 -->  Login failed
+2025-06-21 12:37:51,791 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 43 -->  Taking screenshot
+2025-06-21 12:37:51,791 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 43 -->  Taking screenshot
+2025-06-21 12:37:51,791 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 43 -->  Taking screenshot
+2025-06-21 12:37:51,791 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 43 -->  Taking screenshot
+2025-06-21 12:37:51,963 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 48 -->  test_OrangeHRM_Login_004 is passed
+2025-06-21 12:37:51,963 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 48 -->  test_OrangeHRM_Login_004 is passed
+2025-06-21 12:37:51,963 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 48 -->  test_OrangeHRM_Login_004 is passed
+2025-06-21 12:37:51,963 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 48 -->  test_OrangeHRM_Login_004 is passed
+2025-06-21 12:37:51,963 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 53 -->  test_OrangeHRM_Login_004 is completed
+2025-06-21 12:37:51,963 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 53 -->  test_OrangeHRM_Login_004 is completed
+2025-06-21 12:37:51,963 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 53 -->  test_OrangeHRM_Login_004 is completed
+2025-06-21 12:37:51,963 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 53 -->  test_OrangeHRM_Login_004 is completed
+2025-06-21 12:37:51,966 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 19 -->  test_OrangeHRM_Login_004 is started
+2025-06-21 12:37:51,966 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 19 -->  test_OrangeHRM_Login_004 is started
+2025-06-21 12:37:51,966 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 19 -->  test_OrangeHRM_Login_004 is started
+2025-06-21 12:37:51,966 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 19 -->  test_OrangeHRM_Login_004 is started
+2025-06-21 12:37:51,967 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 23 -->  Opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:37:51,967 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 23 -->  Opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:37:51,967 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 23 -->  Opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:37:51,967 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 23 -->  Opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:37:51,967 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 25 -->  Entering username
+2025-06-21 12:37:51,967 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 25 -->  Entering username
+2025-06-21 12:37:51,967 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 25 -->  Entering username
+2025-06-21 12:37:51,967 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 25 -->  Entering username
+2025-06-21 12:37:52,140 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 27 -->  Entering password
+2025-06-21 12:37:52,140 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 27 -->  Entering password
+2025-06-21 12:37:52,140 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 27 -->  Entering password
+2025-06-21 12:37:52,140 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 27 -->  Entering password
+2025-06-21 12:37:52,260 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 29 -->  Clicking login button
+2025-06-21 12:37:52,260 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 29 -->  Clicking login button
+2025-06-21 12:37:52,260 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 29 -->  Clicking login button
+2025-06-21 12:37:52,260 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 29 -->  Clicking login button
+2025-06-21 12:37:52,377 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 31 -->  Verifying login
+2025-06-21 12:37:52,377 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 31 -->  Verifying login
+2025-06-21 12:37:52,377 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 31 -->  Verifying login
+2025-06-21 12:37:52,377 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 31 -->  Verifying login
+2025-06-21 12:38:02,844 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 42 -->  Login failed
+2025-06-21 12:38:02,844 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 42 -->  Login failed
+2025-06-21 12:38:02,844 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 42 -->  Login failed
+2025-06-21 12:38:02,844 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 42 -->  Login failed
+2025-06-21 12:38:02,844 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 43 -->  Taking screenshot
+2025-06-21 12:38:02,844 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 43 -->  Taking screenshot
+2025-06-21 12:38:02,844 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 43 -->  Taking screenshot
+2025-06-21 12:38:02,844 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 43 -->  Taking screenshot
+2025-06-21 12:38:03,072 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 48 -->  test_OrangeHRM_Login_004 is passed
+2025-06-21 12:38:03,072 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 48 -->  test_OrangeHRM_Login_004 is passed
+2025-06-21 12:38:03,072 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 48 -->  test_OrangeHRM_Login_004 is passed
+2025-06-21 12:38:03,072 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 48 -->  test_OrangeHRM_Login_004 is passed
+2025-06-21 12:38:03,072 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 53 -->  test_OrangeHRM_Login_004 is completed
+2025-06-21 12:38:03,072 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 53 -->  test_OrangeHRM_Login_004 is completed
+2025-06-21 12:38:03,072 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 53 -->  test_OrangeHRM_Login_004 is completed
+2025-06-21 12:38:03,072 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 53 -->  test_OrangeHRM_Login_004 is completed
+2025-06-21 12:42:04,156 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_Excel_005 : 26 -->  test_OrangeHRM_Login_005 is started
+2025-06-21 12:42:04,156 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_Excel_005 : 26 -->  test_OrangeHRM_Login_005 is started
+2025-06-21 12:42:04,156 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_Excel_005 : 26 -->  test_OrangeHRM_Login_005 is started
+2025-06-21 12:42:04,156 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_Excel_005 : 26 -->  test_OrangeHRM_Login_005 is started
+2025-06-21 12:42:04,157 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_Excel_005 : 27 -->  Opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:42:04,157 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_Excel_005 : 27 -->  Opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:42:04,157 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_Excel_005 : 27 -->  Opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:42:04,157 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_Excel_005 : 27 -->  Opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:42:04,157 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_Excel_005 : 29 -->  Reading data from excel file
+2025-06-21 12:42:04,157 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_Excel_005 : 29 -->  Reading data from excel file
+2025-06-21 12:42:04,157 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_Excel_005 : 29 -->  Reading data from excel file
+2025-06-21 12:42:04,157 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_Excel_005 : 29 -->  Reading data from excel file
+2025-06-21 12:47:04,740 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_Excel_005 : 26 -->  test_OrangeHRM_Login_005 is started
+2025-06-21 12:47:04,740 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_Excel_005 : 27 -->  Opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:47:04,740 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_Excel_005 : 29 -->  Reading data from excel file
+2025-06-21 12:49:16,854 : INFO : Test_OrangeHRM_Add_Employee_004 : test_OrangeHRM_Add_Employee_005 : 24 -->  test_OrangeHRM_Add_Employee_004 is started
+2025-06-21 12:49:16,856 : INFO : Test_OrangeHRM_Add_Employee_004 : test_OrangeHRM_Add_Employee_005 : 27 -->  Opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:49:16,856 : INFO : Test_OrangeHRM_Add_Employee_004 : test_OrangeHRM_Add_Employee_005 : 28 -->  Entering username
+2025-06-21 12:49:17,588 : INFO : Test_OrangeHRM_Add_Employee_004 : test_OrangeHRM_Add_Employee_005 : 30 -->  Entering password
+2025-06-21 12:49:17,706 : INFO : Test_OrangeHRM_Add_Employee_004 : test_OrangeHRM_Add_Employee_005 : 32 -->  Clicking login button
+2025-06-21 12:49:17,778 : INFO : Test_OrangeHRM_Add_Employee_004 : test_OrangeHRM_Add_Employee_005 : 34 -->  Clicking PIM button
+2025-06-21 12:49:22,420 : INFO : Test_OrangeHRM_Add_Employee_004 : test_OrangeHRM_Add_Employee_005 : 36 -->  Clicking Add button
+2025-06-21 12:49:23,687 : INFO : Test_OrangeHRM_Add_Employee_004 : test_OrangeHRM_Add_Employee_005 : 38 -->  Entering first name
+2025-06-21 12:49:41,265 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 20 -->  test_OrangeHRM_title_001 is started
+2025-06-21 12:49:41,265 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 20 -->  test_OrangeHRM_title_001 is started
+2025-06-21 12:49:41,265 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 20 -->  test_OrangeHRM_title_001 is started
+2025-06-21 12:49:41,265 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 20 -->  test_OrangeHRM_title_001 is started
+2025-06-21 12:49:42,266 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 22 -->  opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:49:42,266 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 22 -->  opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:49:42,266 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 22 -->  opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:49:42,266 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 22 -->  opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:49:42,266 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 23 -->  Verifying title
+2025-06-21 12:49:42,266 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 23 -->  Verifying title
+2025-06-21 12:49:42,266 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 23 -->  Verifying title
+2025-06-21 12:49:42,266 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 23 -->  Verifying title
+2025-06-21 12:49:42,278 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 25 -->  title is OrangeHRM
+2025-06-21 12:49:42,278 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 25 -->  title is OrangeHRM
+2025-06-21 12:49:42,278 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 25 -->  title is OrangeHRM
+2025-06-21 12:49:42,278 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 25 -->  title is OrangeHRM
+2025-06-21 12:49:42,278 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 26 -->  test_OrangeHRM_title_001 is passed
+2025-06-21 12:49:42,278 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 26 -->  test_OrangeHRM_title_001 is passed
+2025-06-21 12:49:42,278 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 26 -->  test_OrangeHRM_title_001 is passed
+2025-06-21 12:49:42,278 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 26 -->  test_OrangeHRM_title_001 is passed
+2025-06-21 12:49:42,279 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 27 -->  Taking screenshot
+2025-06-21 12:49:42,279 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 27 -->  Taking screenshot
+2025-06-21 12:49:42,279 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 27 -->  Taking screenshot
+2025-06-21 12:49:42,279 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 27 -->  Taking screenshot
+2025-06-21 12:49:42,412 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 36 -->  test_OrangeHRM_title_001 is completed
+2025-06-21 12:49:42,412 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 36 -->  test_OrangeHRM_title_001 is completed
+2025-06-21 12:49:42,412 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 36 -->  test_OrangeHRM_title_001 is completed
+2025-06-21 12:49:42,412 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 36 -->  test_OrangeHRM_title_001 is completed
+2025-06-21 12:49:42,415 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Logo_002 : 39 -->  test_OrangeHRM_Logo_002 is started
+2025-06-21 12:49:42,415 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Logo_002 : 39 -->  test_OrangeHRM_Logo_002 is started
+2025-06-21 12:49:42,415 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Logo_002 : 39 -->  test_OrangeHRM_Logo_002 is started
+2025-06-21 12:49:42,415 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Logo_002 : 39 -->  test_OrangeHRM_Logo_002 is started
+2025-06-21 12:49:43,416 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Logo_002 : 41 -->  Verifying logo
+2025-06-21 12:49:43,416 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Logo_002 : 41 -->  Verifying logo
+2025-06-21 12:49:43,416 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Logo_002 : 41 -->  Verifying logo
+2025-06-21 12:49:43,416 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Logo_002 : 41 -->  Verifying logo
+2025-06-21 12:49:44,534 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Logo_002 : 44 -->  logo is present
+2025-06-21 12:49:44,534 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Logo_002 : 44 -->  logo is present
+2025-06-21 12:49:44,534 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Logo_002 : 44 -->  logo is present
+2025-06-21 12:49:44,534 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Logo_002 : 44 -->  logo is present
+2025-06-21 12:49:44,534 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Logo_002 : 45 -->  test_OrangeHRM_Logo_002 is passed
+2025-06-21 12:49:44,534 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Logo_002 : 45 -->  test_OrangeHRM_Logo_002 is passed
+2025-06-21 12:49:44,534 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Logo_002 : 45 -->  test_OrangeHRM_Logo_002 is passed
+2025-06-21 12:49:44,534 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Logo_002 : 45 -->  test_OrangeHRM_Logo_002 is passed
+2025-06-21 12:49:44,535 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Logo_002 : 46 -->  Taking screenshot
+2025-06-21 12:49:44,535 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Logo_002 : 46 -->  Taking screenshot
+2025-06-21 12:49:44,535 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Logo_002 : 46 -->  Taking screenshot
+2025-06-21 12:49:44,535 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Logo_002 : 46 -->  Taking screenshot
+2025-06-21 12:49:44,713 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Logo_002 : 55 -->  test_OrangeHRM_Logo_002 is completed
+2025-06-21 12:49:44,713 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Logo_002 : 55 -->  test_OrangeHRM_Logo_002 is completed
+2025-06-21 12:49:44,713 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Logo_002 : 55 -->  test_OrangeHRM_Logo_002 is completed
+2025-06-21 12:49:44,713 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Logo_002 : 55 -->  test_OrangeHRM_Logo_002 is completed
+2025-06-21 12:49:44,716 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 58 -->  test_OrangeHRM_Login_003 is started
+2025-06-21 12:49:44,716 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 58 -->  test_OrangeHRM_Login_003 is started
+2025-06-21 12:49:44,716 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 58 -->  test_OrangeHRM_Login_003 is started
+2025-06-21 12:49:44,716 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 58 -->  test_OrangeHRM_Login_003 is started
+2025-06-21 12:49:44,716 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 60 -->  Entering username
+2025-06-21 12:49:44,716 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 60 -->  Entering username
+2025-06-21 12:49:44,716 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 60 -->  Entering username
+2025-06-21 12:49:44,716 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 60 -->  Entering username
+2025-06-21 12:49:44,912 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 62 -->  Entering password
+2025-06-21 12:49:44,912 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 62 -->  Entering password
+2025-06-21 12:49:44,912 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 62 -->  Entering password
+2025-06-21 12:49:44,912 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 62 -->  Entering password
+2025-06-21 12:49:45,116 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 64 -->  Clicking login button
+2025-06-21 12:49:45,116 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 64 -->  Clicking login button
+2025-06-21 12:49:45,116 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 64 -->  Clicking login button
+2025-06-21 12:49:45,116 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 64 -->  Clicking login button
+2025-06-21 12:49:45,220 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 66 -->  Verifying login
+2025-06-21 12:49:45,220 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 66 -->  Verifying login
+2025-06-21 12:49:45,220 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 66 -->  Verifying login
+2025-06-21 12:49:45,220 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 66 -->  Verifying login
+2025-06-21 12:49:47,633 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 68 -->  test_OrangeHRM_Login_003 is passed
+2025-06-21 12:49:47,633 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 68 -->  test_OrangeHRM_Login_003 is passed
+2025-06-21 12:49:47,633 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 68 -->  test_OrangeHRM_Login_003 is passed
+2025-06-21 12:49:47,633 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 68 -->  test_OrangeHRM_Login_003 is passed
+2025-06-21 12:49:47,634 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 69 -->  Taking screenshot
+2025-06-21 12:49:47,634 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 69 -->  Taking screenshot
+2025-06-21 12:49:47,634 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 69 -->  Taking screenshot
+2025-06-21 12:49:47,634 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 69 -->  Taking screenshot
+2025-06-21 12:49:47,968 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 71 -->  Clicking menu button
+2025-06-21 12:49:47,968 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 71 -->  Clicking menu button
+2025-06-21 12:49:47,968 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 71 -->  Clicking menu button
+2025-06-21 12:49:47,968 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 71 -->  Clicking menu button
+2025-06-21 12:49:48,048 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 73 -->  Clicking logout button
+2025-06-21 12:49:48,048 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 73 -->  Clicking logout button
+2025-06-21 12:49:48,048 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 73 -->  Clicking logout button
+2025-06-21 12:49:48,048 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 73 -->  Clicking logout button
+2025-06-21 12:49:51,882 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 81 -->  test_OrangeHRM_Login_003 is completed
+2025-06-21 12:49:51,882 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 81 -->  test_OrangeHRM_Login_003 is completed
+2025-06-21 12:49:51,882 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 81 -->  test_OrangeHRM_Login_003 is completed
+2025-06-21 12:49:51,882 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_003 : 81 -->  test_OrangeHRM_Login_003 is completed
+2025-06-21 12:50:03,033 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 20 -->  test_OrangeHRM_title_001 is started
+2025-06-21 12:50:03,033 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 20 -->  test_OrangeHRM_title_001 is started
+2025-06-21 12:50:03,033 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 20 -->  test_OrangeHRM_title_001 is started
+2025-06-21 12:50:03,033 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 20 -->  test_OrangeHRM_title_001 is started
+2025-06-21 12:50:04,034 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 22 -->  opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:50:04,034 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 22 -->  opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:50:04,034 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 22 -->  opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:50:04,034 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 22 -->  opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:50:04,035 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 23 -->  Verifying title
+2025-06-21 12:50:04,035 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 23 -->  Verifying title
+2025-06-21 12:50:04,035 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 23 -->  Verifying title
+2025-06-21 12:50:04,035 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 23 -->  Verifying title
+2025-06-21 12:50:04,051 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 25 -->  test_OrangeHRM_title_001 is passed
+2025-06-21 12:50:04,051 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 25 -->  test_OrangeHRM_title_001 is passed
+2025-06-21 12:50:04,051 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 25 -->  test_OrangeHRM_title_001 is passed
+2025-06-21 12:50:04,051 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 25 -->  test_OrangeHRM_title_001 is passed
+2025-06-21 12:50:04,052 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 26 -->  test_OrangeHRM_title_001 is passed
+2025-06-21 12:50:04,052 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 26 -->  test_OrangeHRM_title_001 is passed
+2025-06-21 12:50:04,052 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 26 -->  test_OrangeHRM_title_001 is passed
+2025-06-21 12:50:04,052 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 26 -->  test_OrangeHRM_title_001 is passed
+2025-06-21 12:50:04,052 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 27 -->  Taking screenshot
+2025-06-21 12:50:04,052 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 27 -->  Taking screenshot
+2025-06-21 12:50:04,052 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 27 -->  Taking screenshot
+2025-06-21 12:50:04,052 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 27 -->  Taking screenshot
+2025-06-21 12:50:04,195 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 36 -->  test_OrangeHRM_title_001 is completed
+2025-06-21 12:50:04,195 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 36 -->  test_OrangeHRM_title_001 is completed
+2025-06-21 12:50:04,195 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 36 -->  test_OrangeHRM_title_001 is completed
+2025-06-21 12:50:04,195 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_title_001 : 36 -->  test_OrangeHRM_title_001 is completed
+2025-06-21 12:50:11,734 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_Excel_005 : 26 -->  test_OrangeHRM_Login_005 is started
+2025-06-21 12:50:11,734 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_Excel_005 : 26 -->  test_OrangeHRM_Login_005 is started
+2025-06-21 12:50:11,734 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_Excel_005 : 26 -->  test_OrangeHRM_Login_005 is started
+2025-06-21 12:50:11,734 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_Excel_005 : 26 -->  test_OrangeHRM_Login_005 is started
+2025-06-21 12:50:11,735 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_Excel_005 : 27 -->  Opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:50:11,735 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_Excel_005 : 27 -->  Opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:50:11,735 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_Excel_005 : 27 -->  Opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:50:11,735 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_Excel_005 : 27 -->  Opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:50:11,735 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_Excel_005 : 29 -->  Reading data from excel file
+2025-06-21 12:50:11,735 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_Excel_005 : 29 -->  Reading data from excel file
+2025-06-21 12:50:11,735 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_Excel_005 : 29 -->  Reading data from excel file
+2025-06-21 12:50:11,735 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_Excel_005 : 29 -->  Reading data from excel file
+2025-06-21 12:50:22,007 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 19 -->  test_OrangeHRM_Login_004 is started
+2025-06-21 12:50:22,007 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 19 -->  test_OrangeHRM_Login_004 is started
+2025-06-21 12:50:22,007 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 19 -->  test_OrangeHRM_Login_004 is started
+2025-06-21 12:50:22,007 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 19 -->  test_OrangeHRM_Login_004 is started
+2025-06-21 12:50:22,008 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 23 -->  Opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:50:22,008 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 23 -->  Opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:50:22,008 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 23 -->  Opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:50:22,008 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 23 -->  Opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:50:22,008 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 25 -->  Entering username
+2025-06-21 12:50:22,008 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 25 -->  Entering username
+2025-06-21 12:50:22,008 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 25 -->  Entering username
+2025-06-21 12:50:22,008 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 25 -->  Entering username
+2025-06-21 12:50:23,182 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 27 -->  Entering password
+2025-06-21 12:50:23,182 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 27 -->  Entering password
+2025-06-21 12:50:23,182 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 27 -->  Entering password
+2025-06-21 12:50:23,182 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 27 -->  Entering password
+2025-06-21 12:50:23,357 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 29 -->  Clicking login button
+2025-06-21 12:50:23,357 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 29 -->  Clicking login button
+2025-06-21 12:50:23,357 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 29 -->  Clicking login button
+2025-06-21 12:50:23,357 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 29 -->  Clicking login button
+2025-06-21 12:50:23,476 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 31 -->  Verifying login
+2025-06-21 12:50:23,476 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 31 -->  Verifying login
+2025-06-21 12:50:23,476 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 31 -->  Verifying login
+2025-06-21 12:50:23,476 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 31 -->  Verifying login
+2025-06-21 12:50:25,619 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 33 -->  Login passed
+2025-06-21 12:50:25,619 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 33 -->  Login passed
+2025-06-21 12:50:25,619 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 33 -->  Login passed
+2025-06-21 12:50:25,619 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 33 -->  Login passed
+2025-06-21 12:50:25,619 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 34 -->  Taking screenshot
+2025-06-21 12:50:25,619 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 34 -->  Taking screenshot
+2025-06-21 12:50:25,619 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 34 -->  Taking screenshot
+2025-06-21 12:50:25,619 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 34 -->  Taking screenshot
+2025-06-21 12:50:25,923 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 36 -->  Clicking menu button
+2025-06-21 12:50:25,923 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 36 -->  Clicking menu button
+2025-06-21 12:50:25,923 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 36 -->  Clicking menu button
+2025-06-21 12:50:25,923 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 36 -->  Clicking menu button
+2025-06-21 12:50:26,011 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 38 -->  Clicking logout button
+2025-06-21 12:50:26,011 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 38 -->  Clicking logout button
+2025-06-21 12:50:26,011 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 38 -->  Clicking logout button
+2025-06-21 12:50:26,011 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 38 -->  Clicking logout button
+2025-06-21 12:50:27,370 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 48 -->  test_OrangeHRM_Login_004 is passed
+2025-06-21 12:50:27,370 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 48 -->  test_OrangeHRM_Login_004 is passed
+2025-06-21 12:50:27,370 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 48 -->  test_OrangeHRM_Login_004 is passed
+2025-06-21 12:50:27,370 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 48 -->  test_OrangeHRM_Login_004 is passed
+2025-06-21 12:50:27,370 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 53 -->  test_OrangeHRM_Login_004 is completed
+2025-06-21 12:50:27,370 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 53 -->  test_OrangeHRM_Login_004 is completed
+2025-06-21 12:50:27,370 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 53 -->  test_OrangeHRM_Login_004 is completed
+2025-06-21 12:50:27,370 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 53 -->  test_OrangeHRM_Login_004 is completed
+2025-06-21 12:50:27,372 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 19 -->  test_OrangeHRM_Login_004 is started
+2025-06-21 12:50:27,372 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 19 -->  test_OrangeHRM_Login_004 is started
+2025-06-21 12:50:27,372 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 19 -->  test_OrangeHRM_Login_004 is started
+2025-06-21 12:50:27,372 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 19 -->  test_OrangeHRM_Login_004 is started
+2025-06-21 12:50:27,372 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 23 -->  Opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:50:27,372 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 23 -->  Opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:50:27,372 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 23 -->  Opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:50:27,372 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 23 -->  Opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:50:27,373 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 25 -->  Entering username
+2025-06-21 12:50:27,373 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 25 -->  Entering username
+2025-06-21 12:50:27,373 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 25 -->  Entering username
+2025-06-21 12:50:27,373 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 25 -->  Entering username
+2025-06-21 12:50:28,169 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 27 -->  Entering password
+2025-06-21 12:50:28,169 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 27 -->  Entering password
+2025-06-21 12:50:28,169 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 27 -->  Entering password
+2025-06-21 12:50:28,169 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 27 -->  Entering password
+2025-06-21 12:50:28,328 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 29 -->  Clicking login button
+2025-06-21 12:50:28,328 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 29 -->  Clicking login button
+2025-06-21 12:50:28,328 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 29 -->  Clicking login button
+2025-06-21 12:50:28,328 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 29 -->  Clicking login button
+2025-06-21 12:50:29,504 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 31 -->  Verifying login
+2025-06-21 12:50:29,504 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 31 -->  Verifying login
+2025-06-21 12:50:29,504 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 31 -->  Verifying login
+2025-06-21 12:50:29,504 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 31 -->  Verifying login
+2025-06-21 12:50:39,970 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 42 -->  Login failed
+2025-06-21 12:50:39,970 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 42 -->  Login failed
+2025-06-21 12:50:39,970 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 42 -->  Login failed
+2025-06-21 12:50:39,970 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 42 -->  Login failed
+2025-06-21 12:50:39,970 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 43 -->  Taking screenshot
+2025-06-21 12:50:39,970 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 43 -->  Taking screenshot
+2025-06-21 12:50:39,970 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 43 -->  Taking screenshot
+2025-06-21 12:50:39,970 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 43 -->  Taking screenshot
+2025-06-21 12:50:40,154 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 48 -->  test_OrangeHRM_Login_004 is passed
+2025-06-21 12:50:40,154 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 48 -->  test_OrangeHRM_Login_004 is passed
+2025-06-21 12:50:40,154 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 48 -->  test_OrangeHRM_Login_004 is passed
+2025-06-21 12:50:40,154 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 48 -->  test_OrangeHRM_Login_004 is passed
+2025-06-21 12:50:40,154 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 53 -->  test_OrangeHRM_Login_004 is completed
+2025-06-21 12:50:40,154 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 53 -->  test_OrangeHRM_Login_004 is completed
+2025-06-21 12:50:40,154 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 53 -->  test_OrangeHRM_Login_004 is completed
+2025-06-21 12:50:40,154 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 53 -->  test_OrangeHRM_Login_004 is completed
+2025-06-21 12:50:40,157 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 19 -->  test_OrangeHRM_Login_004 is started
+2025-06-21 12:50:40,157 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 19 -->  test_OrangeHRM_Login_004 is started
+2025-06-21 12:50:40,157 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 19 -->  test_OrangeHRM_Login_004 is started
+2025-06-21 12:50:40,157 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 19 -->  test_OrangeHRM_Login_004 is started
+2025-06-21 12:50:40,157 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 23 -->  Opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:50:40,157 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 23 -->  Opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:50:40,157 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 23 -->  Opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:50:40,157 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 23 -->  Opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:50:40,158 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 25 -->  Entering username
+2025-06-21 12:50:40,158 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 25 -->  Entering username
+2025-06-21 12:50:40,158 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 25 -->  Entering username
+2025-06-21 12:50:40,158 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 25 -->  Entering username
+2025-06-21 12:50:40,349 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 27 -->  Entering password
+2025-06-21 12:50:40,349 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 27 -->  Entering password
+2025-06-21 12:50:40,349 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 27 -->  Entering password
+2025-06-21 12:50:40,349 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 27 -->  Entering password
+2025-06-21 12:50:40,522 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 29 -->  Clicking login button
+2025-06-21 12:50:40,522 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 29 -->  Clicking login button
+2025-06-21 12:50:40,522 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 29 -->  Clicking login button
+2025-06-21 12:50:40,522 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 29 -->  Clicking login button
+2025-06-21 12:50:40,626 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 31 -->  Verifying login
+2025-06-21 12:50:40,626 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 31 -->  Verifying login
+2025-06-21 12:50:40,626 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 31 -->  Verifying login
+2025-06-21 12:50:40,626 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 31 -->  Verifying login
+2025-06-21 12:50:51,096 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 42 -->  Login failed
+2025-06-21 12:50:51,096 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 42 -->  Login failed
+2025-06-21 12:50:51,096 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 42 -->  Login failed
+2025-06-21 12:50:51,096 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 42 -->  Login failed
+2025-06-21 12:50:51,097 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 43 -->  Taking screenshot
+2025-06-21 12:50:51,097 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 43 -->  Taking screenshot
+2025-06-21 12:50:51,097 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 43 -->  Taking screenshot
+2025-06-21 12:50:51,097 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 43 -->  Taking screenshot
+2025-06-21 12:50:51,239 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 48 -->  test_OrangeHRM_Login_004 is passed
+2025-06-21 12:50:51,239 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 48 -->  test_OrangeHRM_Login_004 is passed
+2025-06-21 12:50:51,239 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 48 -->  test_OrangeHRM_Login_004 is passed
+2025-06-21 12:50:51,239 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 48 -->  test_OrangeHRM_Login_004 is passed
+2025-06-21 12:50:51,239 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 53 -->  test_OrangeHRM_Login_004 is completed
+2025-06-21 12:50:51,239 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 53 -->  test_OrangeHRM_Login_004 is completed
+2025-06-21 12:50:51,239 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 53 -->  test_OrangeHRM_Login_004 is completed
+2025-06-21 12:50:51,239 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 53 -->  test_OrangeHRM_Login_004 is completed
+2025-06-21 12:50:51,241 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 19 -->  test_OrangeHRM_Login_004 is started
+2025-06-21 12:50:51,241 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 19 -->  test_OrangeHRM_Login_004 is started
+2025-06-21 12:50:51,241 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 19 -->  test_OrangeHRM_Login_004 is started
+2025-06-21 12:50:51,241 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 19 -->  test_OrangeHRM_Login_004 is started
+2025-06-21 12:50:51,241 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 23 -->  Opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:50:51,241 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 23 -->  Opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:50:51,241 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 23 -->  Opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:50:51,241 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 23 -->  Opening url https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-06-21 12:50:51,241 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 25 -->  Entering username
+2025-06-21 12:50:51,241 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 25 -->  Entering username
+2025-06-21 12:50:51,241 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 25 -->  Entering username
+2025-06-21 12:50:51,241 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 25 -->  Entering username
+2025-06-21 12:50:51,360 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 27 -->  Entering password
+2025-06-21 12:50:51,360 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 27 -->  Entering password
+2025-06-21 12:50:51,360 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 27 -->  Entering password
+2025-06-21 12:50:51,360 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 27 -->  Entering password
+2025-06-21 12:50:51,469 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 29 -->  Clicking login button
+2025-06-21 12:50:51,469 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 29 -->  Clicking login button
+2025-06-21 12:50:51,469 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 29 -->  Clicking login button
+2025-06-21 12:50:51,469 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 29 -->  Clicking login button
+2025-06-21 12:50:51,537 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 31 -->  Verifying login
+2025-06-21 12:50:51,537 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 31 -->  Verifying login
+2025-06-21 12:50:51,537 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 31 -->  Verifying login
+2025-06-21 12:50:51,537 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 31 -->  Verifying login
+2025-06-21 12:51:02,045 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 42 -->  Login failed
+2025-06-21 12:51:02,045 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 42 -->  Login failed
+2025-06-21 12:51:02,045 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 42 -->  Login failed
+2025-06-21 12:51:02,045 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 42 -->  Login failed
+2025-06-21 12:51:02,046 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 43 -->  Taking screenshot
+2025-06-21 12:51:02,046 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 43 -->  Taking screenshot
+2025-06-21 12:51:02,046 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 43 -->  Taking screenshot
+2025-06-21 12:51:02,046 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 43 -->  Taking screenshot
+2025-06-21 12:51:02,201 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 48 -->  test_OrangeHRM_Login_004 is passed
+2025-06-21 12:51:02,201 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 48 -->  test_OrangeHRM_Login_004 is passed
+2025-06-21 12:51:02,201 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 48 -->  test_OrangeHRM_Login_004 is passed
+2025-06-21 12:51:02,201 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 48 -->  test_OrangeHRM_Login_004 is passed
+2025-06-21 12:51:02,201 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 53 -->  test_OrangeHRM_Login_004 is completed
+2025-06-21 12:51:02,201 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 53 -->  test_OrangeHRM_Login_004 is completed
+2025-06-21 12:51:02,201 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 53 -->  test_OrangeHRM_Login_004 is completed
+2025-06-21 12:51:02,201 : INFO : Test_OrangeHRM_Login_001 : test_OrangeHRM_Login_params_004 : 53 -->  test_OrangeHRM_Login_004 is completed
